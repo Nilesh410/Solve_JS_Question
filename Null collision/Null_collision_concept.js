@@ -34,3 +34,4 @@ const data=[
 //const newdata=data.length>0 && data.filter((ele)=>ele?.item?.length==0);
 const newdata=data.length>0 ? data.filter((ele)=>ele?.item?.length==0) : [];
 console.log(newdata);
+console.log(newdata);
